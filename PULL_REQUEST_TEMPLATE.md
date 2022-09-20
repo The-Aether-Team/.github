@@ -1,9 +1,20 @@
-## Describe your changes
+`(TITLE)`: type(scope): Brief description *[MOVE TO TITLE]*
+```
+Write up a description here
 
-## Issue ticket number and link
+closes issue #XXXX [REMOVE IF IRRELEVANT]
+```
 
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+I agree to the Contributor License Agreement (CLA).
+
+---
+Example: *[REMOVE FOR SUBMISSION]*
+
+`(TITLE)` feat(block): Implements Aether Grass Block
+```
+Implements the Aether Grass Block class, model, blockstates, language entry, and adds the block to the registry
+  
+closes issue #1
+```
+
+I agree to the Contributor License Agreement (CLA).
