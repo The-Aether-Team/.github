@@ -8,6 +8,6 @@
 * Discord: https://discord.gg/aethermod
 * Patreon: https://www.patreon.com/GildedGames
 * Twitter: https://twitter.com/DevAether
-* YouTube: https://www.youtube.com/channel/UCzynznDiVtxzx-gTM8y02ew
+* YouTube: https://www.youtube.com/c/GildedGames
 * Reddit: https://www.reddit.com/r/TheAether/
 * Wiki: *Coming soon...*
