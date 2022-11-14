@@ -3,8 +3,8 @@
 
 ## :keyboard: Links
 * The Aether II (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-ii
-* The Aether (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether
 * The Aether II (Modrinth): https://modrinth.com/mod/aether-ii
+* The Aether (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether
 * The Aether (Modrinth): https://modrinth.com/mod/aether
 * The Aether (MCArchive): https://mcarchive.net/mods/aether1
 * CircleCI: https://app.circleci.com/projects/project-dashboard/github/Gilded-Games/
