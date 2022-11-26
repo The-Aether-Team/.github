@@ -11,6 +11,7 @@
 * Discord: https://discord.gg/aethermod
 * Discord/SMP Ban Appeals: https://forms.gle/hpbSsYwTeLgAzD2w6
 * Patreon: https://www.patreon.com/GildedGames
+* Supporter Rewards Registration: https://forms.gle/x7svqsfHCsDNWyss5
 * Twitter: https://twitter.com/DevAether
 * YouTube: https://www.youtube.com/c/GildedGames
 * Reddit: https://www.reddit.com/r/TheAether/
