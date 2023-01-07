@@ -22,7 +22,7 @@ Patreon: https://www.patreon.com/GildedGames
 * ![image](https://user-images.githubusercontent.com/67203206/204719606-dcae6db3-fb72-410f-9740-7375a6fc9fb0.png)
 Supporter Rewards Registration: https://forms.gle/x7svqsfHCsDNWyss5
 * ![image](https://user-images.githubusercontent.com/67203206/204718464-50bc2b7b-57ee-4ec8-871d-4a459b381686.png)
-OneSky: *Coming soon...*
+OneSky: http://aether.oneskyapp.com/collaboration
 * ![image](https://user-images.githubusercontent.com/67203206/204718599-0e985860-a5f9-4cab-be93-eba73e5770bd.png)
 wiki.gg: *Coming soon...*
 
