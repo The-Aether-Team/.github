@@ -37,5 +37,7 @@ Twitter: https://twitter.com/DevAether
 Facebook: https://www.facebook.com/AetherMod
 * ![image](https://user-images.githubusercontent.com/67203206/204719338-c47babe1-0b50-439b-b872-3fca14a9d9c4.png)
 YouTube: https://www.youtube.com/c/GildedGames
+* ![image](https://user-images.githubusercontent.com/67203206/226137965-b363fe52-9b78-400c-9723-db37510933cf.png)
+Twitch: https://www.twitch.tv/theaetherteam
 * ![image](https://user-images.githubusercontent.com/67203206/204719502-9f20a01b-ed36-4bf9-b113-c98dbc1a02b3.png)
 Reddit: https://www.reddit.com/r/TheAether/
