@@ -3,14 +3,14 @@
 
 ## :keyboard: Links
 ### Download the Project
-* ![image](https://user-images.githubusercontent.com/67203206/204717526-4ceeba4c-e376-4364-8838-ecb2a1b1e4ba.png)
-The Aether II (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-ii
 * ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
 The Aether II (Modrinth): https://modrinth.com/mod/aether-ii
 * ![image](https://user-images.githubusercontent.com/67203206/204717526-4ceeba4c-e376-4364-8838-ecb2a1b1e4ba.png)
-The Aether (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether
+The Aether II (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-ii
 * ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
 The Aether (Modrinth): https://modrinth.com/mod/aether
+* ![image](https://user-images.githubusercontent.com/67203206/204717526-4ceeba4c-e376-4364-8838-ecb2a1b1e4ba.png)
+The Aether (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether
 * ![image](https://user-images.githubusercontent.com/67203206/204717917-fb49bff6-efdd-4136-9cac-91f255eadeb7.png)
 The Aether (MCArchive): https://mcarchive.net/mods/aether1
 * ![image](https://user-images.githubusercontent.com/67203206/204718020-44e0c82c-08dd-48ff-8b00-4e3557a752b3.png)
