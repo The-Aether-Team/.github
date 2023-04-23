@@ -2,7 +2,7 @@
 It is recommended that you read up on the [Conventional Commits  website](https://www.conventionalcommits.org/en/v1.0.0-beta.4/) first, then this file will help clarify how it relates to development.
 
 ## Types
-Gilded Games' projects use the following types for its commits, based on what version number a commit would increase. 
+The Aether Team's projects use the following types for its commits, based on what version number a commit would increase. 
 
 If a commit or PR falls under multiple types, it should attempt to be split up if there are contents not dependent on each other. If that's not possible, choose the highest relevant type for the changes.
 
