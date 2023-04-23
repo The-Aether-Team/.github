@@ -14,7 +14,7 @@ The Aether (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether
 * ![image](https://user-images.githubusercontent.com/67203206/204717917-fb49bff6-efdd-4136-9cac-91f255eadeb7.png)
 The Aether (MCArchive): https://mcarchive.net/mods/aether1
 * ![image](https://user-images.githubusercontent.com/67203206/204718020-44e0c82c-08dd-48ff-8b00-4e3557a752b3.png)
-CircleCI: https://app.circleci.com/projects/project-dashboard/github/Gilded-Games/
+CircleCI: https://app.circleci.com/projects/project-dashboard/github/The-Aether-Team/
 
 ### Support the Project
 * ![image](https://user-images.githubusercontent.com/67203206/204718214-85e5fb53-8c8b-4a30-af55-ef8d87ea44c0.png)
