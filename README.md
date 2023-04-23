@@ -1,2 +1,2 @@
 # .github
-The global repository for Gilded Games' organization.
+The global repository for The Aether Team's organization.
