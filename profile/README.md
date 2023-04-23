@@ -18,7 +18,7 @@ CircleCI: https://app.circleci.com/projects/project-dashboard/github/Gilded-Game
 
 ### Support the Project
 * ![image](https://user-images.githubusercontent.com/67203206/204718214-85e5fb53-8c8b-4a30-af55-ef8d87ea44c0.png)
-Patreon: https://www.patreon.com/GildedGames
+Patreon: https://www.patreon.com/TheAetherTeam
 * ![image](https://user-images.githubusercontent.com/67203206/204719606-dcae6db3-fb72-410f-9740-7375a6fc9fb0.png)
 Supporter Rewards Registration: https://forms.gle/x7svqsfHCsDNWyss5
 * ![image](https://user-images.githubusercontent.com/67203206/204718464-50bc2b7b-57ee-4ec8-871d-4a459b381686.png)
