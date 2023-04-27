@@ -41,3 +41,7 @@ YouTube: https://www.youtube.com/@DevAether
 Twitch: https://www.twitch.tv/theaetherteam
 * ![image](https://user-images.githubusercontent.com/67203206/204719502-9f20a01b-ed36-4bf9-b113-c98dbc1a02b3.png)
 Reddit: https://www.reddit.com/r/TheAether/
+
+## :grey_question: Questions
+**What happened to Gilded Games?**
+> We are still the same team as Gilded Games. We have chose to rebrand back to "The Aether Team" as we felt it better fits us as we refocus our development efforts on the Aether mods, and it helps clarify us as still being the same team known for the original releases of the original mod.
