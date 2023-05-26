@@ -16,8 +16,6 @@ CircleCI: https://app.circleci.com/projects/project-dashboard/github/The-Aether-
 ### Support the Project
 * ![image](https://user-images.githubusercontent.com/67203206/204718214-85e5fb53-8c8b-4a30-af55-ef8d87ea44c0.png)
 Patreon: https://www.patreon.com/TheAetherTeam
-* ![image](https://user-images.githubusercontent.com/67203206/204719606-dcae6db3-fb72-410f-9740-7375a6fc9fb0.png)
-Supporter Rewards Registration: https://forms.gle/x7svqsfHCsDNWyss5
 * ![image](https://github.com/The-Aether-Team/.github/assets/67203206/35c00883-9923-4e02-b8a0-f55aef968f5b)
 Crowdin: https://crowdin.com/project/aether-mod
 * ![image](https://user-images.githubusercontent.com/67203206/204718599-0e985860-a5f9-4cab-be93-eba73e5770bd.png)
