@@ -17,7 +17,7 @@ CircleCI: https://app.circleci.com/projects/project-dashboard/github/The-Aether-
 * ![image](https://user-images.githubusercontent.com/67203206/204718214-85e5fb53-8c8b-4a30-af55-ef8d87ea44c0.png)
 Patreon: https://www.patreon.com/TheAetherTeam
 * ![image](https://github.com/The-Aether-Team/.github/assets/67203206/35c00883-9923-4e02-b8a0-f55aef968f5b)
-Crowdin: https://crowdin.com/project/aether-mod
+Crowdin: https://translate.devaether.com/
 * ![image](https://user-images.githubusercontent.com/67203206/204718599-0e985860-a5f9-4cab-be93-eba73e5770bd.png)
 wiki.gg: *Coming soon...*
 
