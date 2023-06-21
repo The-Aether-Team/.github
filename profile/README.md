@@ -27,6 +27,8 @@ Discord: https://discord.gg/aethermod
 Discord/SMP Ban Appeals: https://forms.gle/hpbSsYwTeLgAzD2w6
 * ![image](https://user-images.githubusercontent.com/67203206/204719046-435cce5e-a392-4b87-a6da-a5e85bfb6dd1.png)
 Twitter: https://twitter.com/DevAether
+* ![image](https://github.com/The-Aether-Team/.github/assets/67203206/f5249249-05a1-485c-a0d6-09a68a299fa6)
+Mastodon: https://mastodon.gamedev.place/@DevAether
 * ![image](https://user-images.githubusercontent.com/67203206/204719175-a85da6de-6669-44b9-9a18-50a08b48813e.png)
 Facebook: https://www.facebook.com/AetherMod
 * ![image](https://user-images.githubusercontent.com/67203206/204719338-c47babe1-0b50-439b-b872-3fca14a9d9c4.png)
