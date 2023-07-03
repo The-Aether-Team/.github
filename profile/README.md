@@ -21,7 +21,7 @@ Patreon: https://www.patreon.com/TheAetherTeam
 * ![image](https://github.com/The-Aether-Team/.github/assets/67203206/35c00883-9923-4e02-b8a0-f55aef968f5b)
 Crowdin: https://translate.devaether.com/
 * ![image](https://user-images.githubusercontent.com/67203206/204718599-0e985860-a5f9-4cab-be93-eba73e5770bd.png)
-wiki.gg: *Coming soon...*
+wiki.gg: https://aether.wiki.gg/
 
 ### Follow the Project
 * ![image](https://github.com/The-Aether-Team/.github/assets/67203206/78fa6426-8120-4acd-9915-2e3017b78750) Aether Website: https://www.aether-mod.net/
