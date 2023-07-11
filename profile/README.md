@@ -13,6 +13,8 @@ The Aether (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether
 CircleCI: https://app.circleci.com/projects/project-dashboard/github/The-Aether-Team/
 #### Other Projects
 * ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
+Aether Addon: Enhanced Extinguishing: https://modrinth.com/mod/aether-enhanced-extinguishing
+* ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
 Aether Data Pack: Temporary Freezing: https://modrinth.com/datapack/aether-temporary-freezing
 
 ### Support the Project
