@@ -18,6 +18,8 @@ Aether Addon: Enhanced Extinguishing (Modrinth): https://modrinth.com/mod/aether
 Aether Addon: Enhanced Extinguishing (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-enhanced-extinguishing
 * ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
 Aether Data Pack: Temporary Freezing: https://modrinth.com/datapack/aether-temporary-freezing
+* ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
+Aether Data Pack: Ruined Portals: https://modrinth.com/datapack/aether-ruined-portals
 
 ### Support the Project
 * ![image](https://user-images.githubusercontent.com/67203206/204718214-85e5fb53-8c8b-4a30-af55-ef8d87ea44c0.png)
