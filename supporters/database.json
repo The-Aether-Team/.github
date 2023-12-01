@@ -4,6 +4,6 @@
     "uuid": "58A5D694-A8A6-4605-AB33-D6904107AD5F",
     "currentTier": "",
     "pastTiers": "{}",
-    "groups": "{aether_team}"
+    "groups": [ "aether_team" ]
   }
 ]
