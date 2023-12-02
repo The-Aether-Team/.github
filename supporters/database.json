@@ -481,6 +481,7 @@
     "uuid": "112AE216-11FE-4C2D-9535-0BDB197CAED0",
     "currentTier": 2429462,
     "pastTiers": [
+      2429462,
       2429462
     ],
     "groups": [
@@ -519,7 +520,7 @@
     "uuid": "6FD9FE00-893F-46ED-BC84-90DA6FE3D766",
     "currentTier": 0,
     "pastTiers": [
-      0
+      616326
     ],
     "groups": [
       ""
@@ -674,6 +675,8 @@
     "uuid": "382CFA7A-B6DB-435A-88E9-5D7C61B1B7FE",
     "currentTier": 2429462,
     "pastTiers": [
+      2429462,
+      616325,
       616325
     ],
     "groups": [
@@ -757,7 +760,7 @@
     "uuid": "02B8D121-C733-4279-AB2C-51367DDDF8E2",
     "currentTier": 0,
     "pastTiers": [
-      0
+      616326
     ],
     "groups": [
       ""
@@ -1173,6 +1176,7 @@
     "uuid": "4DFEBDCD-1973-4464-9A6F-854A84128578",
     "currentTier": 616326,
     "pastTiers": [
+      616326,
       616326
     ],
     "groups": [
@@ -1436,6 +1440,7 @@
     "uuid": "CB3931A4-AEEB-47F0-9295-FB81380CE56B",
     "currentTier": 0,
     "pastTiers": [
+      616326,
       616326
     ],
     "groups": [
@@ -1609,6 +1614,7 @@
     "uuid": "B6D47F69-2FA5-408B-BC08-BAB045BE9EDA",
     "currentTier": 616325,
     "pastTiers": [
+      616325,
       616325
     ],
     "groups": [
@@ -2454,12 +2460,14 @@
   },
   {
     "id": 18193992,
-    "uuid": "",
+    "uuid": "58A5D694-A8A6-4605-AB33-D6904107AD5F",
     "currentTier": 0,
     "pastTiers": [
       616326
     ],
-    "groups": []
+    "groups": [
+      "aether_team"
+    ]
   },
   {
     "id": 18207931,
@@ -2493,6 +2501,7 @@
     "uuid": "8892214E-2D0D-43AF-A86C-B2D760391A2C",
     "currentTier": 616326,
     "pastTiers": [
+      616326,
       616326
     ],
     "groups": [
@@ -3152,7 +3161,7 @@
     "uuid": "6D48F888-6529-43E6-A0A4-3F2FA0070C46",
     "currentTier": 616327,
     "pastTiers": [
-      0
+      616327
     ],
     "groups": [
       ""
@@ -3379,7 +3388,7 @@
     "uuid": "",
     "currentTier": 0,
     "pastTiers": [
-      0
+      2429462
     ],
     "groups": [
       ""
@@ -3773,15 +3782,6 @@
       2429462
     ],
     "groups": []
-  },
-  {
-    "id": 0,
-    "uuid": "58A5D694-A8A6-4605-AB33-D6904107AD5F",
-    "currentTier": 0,
-    "pastTiers": [],
-    "groups": [
-      "aether_team"
-    ]
   },
   {
     "id": 0,
