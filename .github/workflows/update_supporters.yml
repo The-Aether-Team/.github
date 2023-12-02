@@ -13,6 +13,9 @@ jobs:
         with:
           token: ${{ secrets.GIT_TOKEN }}
           fetch-depth: 0
+      - uses: actions/setup-java@v4.0.0
+        with:
+          java-version: '17'
       - name: Update supporters
         run: |
             git config --local user.email "machine@gildedgames.com"
