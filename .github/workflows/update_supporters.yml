@@ -24,10 +24,12 @@ jobs:
             git config --local user.email "machine@gildedgames.com"
             git config --local user.name "Aether-Team-Bot"
 
-            java -jar ./supporters/PatreonUpdater.jar
+            cd ./supporters
+
+            java -jar PatreonUpdater.jar
             
             git status
-            git add ./supporters/database.json
+            git add database.json
             git commit -m "chore: Update supporters"
             git fetch origin main
             git push origin HEAD:main
