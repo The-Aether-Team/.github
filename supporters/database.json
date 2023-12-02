@@ -528,8 +528,9 @@
   {
     "id": 53870635,
     "uuid": "",
-    "currentTier": 0,
+    "currentTier": 616326,
     "pastTiers": [
+      0,
       616326
     ],
     "groups": []
@@ -4373,5 +4374,473 @@
     "groups": [
       "translator"
     ]
+  },
+  {
+    "id": 3803601,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 3865076,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 3934910,
+    "uuid": "",
+    "currentTier": 0,
+    "pastTiers": [
+      0
+    ],
+    "groups": []
+  },
+  {
+    "id": 4065783,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 4154773,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 4211049,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 4221086,
+    "uuid": "",
+    "currentTier": 0,
+    "pastTiers": [
+      0
+    ],
+    "groups": []
+  },
+  {
+    "id": 4244406,
+    "uuid": "",
+    "currentTier": 0,
+    "pastTiers": [
+      0
+    ],
+    "groups": []
+  },
+  {
+    "id": 3880782,
+    "uuid": "",
+    "currentTier": 0,
+    "pastTiers": [
+      0
+    ],
+    "groups": []
+  },
+  {
+    "id": 4340694,
+    "uuid": "",
+    "currentTier": 0,
+    "pastTiers": [
+      0
+    ],
+    "groups": []
+  },
+  {
+    "id": 4471521,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 4518577,
+    "uuid": "",
+    "currentTier": 0,
+    "pastTiers": [
+      0
+    ],
+    "groups": []
+  },
+  {
+    "id": 5824357,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 7046643,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 4336021,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 9432428,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 12688803,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 8144104,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 14215559,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 6381528,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 22080970,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 26129696,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 31608456,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 35009805,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 35678163,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 36988395,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 30692207,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 8061840,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 51610661,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 36764399,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 20972049,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 66110482,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 74591668,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 56068707,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 78858195,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 4002837,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 3716395,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 38958885,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 29073468,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 69600378,
+    "uuid": "",
+    "currentTier": 616327,
+    "pastTiers": [
+      616327
+    ],
+    "groups": []
+  },
+  {
+    "id": 67436726,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 92379925,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 91125992,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 92453466,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 11722099,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 9312139,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 83895818,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 24698049,
+    "uuid": "",
+    "currentTier": 2429462,
+    "pastTiers": [
+      2429462
+    ],
+    "groups": []
+  },
+  {
+    "id": 101933530,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 38032862,
+    "uuid": "",
+    "currentTier": 616325,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
+    "id": 97962095,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
+    "id": 2691895,
+    "uuid": "",
+    "currentTier": 616326,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
   }
 ]
