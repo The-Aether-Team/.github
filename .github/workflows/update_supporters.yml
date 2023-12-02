@@ -27,7 +27,7 @@ jobs:
             java -jar ./supporters/PatreonUpdater.jar
             
             git status
-            git add .
+            git add ./supporters/database.json
             git commit -m "chore: Update supporters"
             git fetch origin main
             git push origin HEAD:main
