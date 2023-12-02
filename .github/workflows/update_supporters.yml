@@ -18,6 +18,8 @@ jobs:
           distribution: 'adopt'
           java-version: '17'
       - name: Update supporters
+        env:
+          PATREON_TOKEN: ${{ secrets.PATREON_TOKEN }}
         run: |
             git config --local user.email "machine@gildedgames.com"
             git config --local user.name "Aether-Team-Bot"
