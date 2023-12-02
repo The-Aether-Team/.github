@@ -481,7 +481,6 @@
     "uuid": "112AE216-11FE-4C2D-9535-0BDB197CAED0",
     "currentTier": 2429462,
     "pastTiers": [
-      2429462,
       2429462
     ],
     "groups": [
@@ -676,7 +675,6 @@
     "currentTier": 2429462,
     "pastTiers": [
       2429462,
-      616325,
       616325
     ],
     "groups": [
@@ -1176,7 +1174,6 @@
     "uuid": "4DFEBDCD-1973-4464-9A6F-854A84128578",
     "currentTier": 616326,
     "pastTiers": [
-      616326,
       616326
     ],
     "groups": [
@@ -1440,7 +1437,6 @@
     "uuid": "CB3931A4-AEEB-47F0-9295-FB81380CE56B",
     "currentTier": 0,
     "pastTiers": [
-      616326,
       616326
     ],
     "groups": [
@@ -1614,7 +1610,6 @@
     "uuid": "B6D47F69-2FA5-408B-BC08-BAB045BE9EDA",
     "currentTier": 616325,
     "pastTiers": [
-      616325,
       616325
     ],
     "groups": [
@@ -2501,7 +2496,6 @@
     "uuid": "8892214E-2D0D-43AF-A86C-B2D760391A2C",
     "currentTier": 616326,
     "pastTiers": [
-      616326,
       616326
     ],
     "groups": [
@@ -3997,8 +3991,8 @@
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
-      "modding_legacy",
-      "contributor"
+      "contributor",
+      "modding_legacy"
     ]
   },
   {
@@ -4160,8 +4154,8 @@
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
-      "aether_team",
-      "staff"
+      "staff",
+      "aether_team"
     ]
   },
   {
