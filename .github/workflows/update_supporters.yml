@@ -1,1 +1,27 @@
 name: Update supporters
+
+on:
+  workflow_dispatch
+#  schedule:
+#    - cron:  '0 0,6,12,18 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
+          fetch-depth: 0
+      - name: Update supporters
+        run: |
+            git config --local user.email "machine@gildedgames.com"
+            git config --local user.name "Aether-Team-Bot"
+
+            java -jar ./supporters/PatreonUpdater.jar
+            
+            git status
+            git add .
+            git commit -m "chore: Update supporters"
+            git fetch origin master
+            git push origin HEAD:master
