@@ -19,7 +19,7 @@
   },
   {
     "id": 4680309,
-    "uuid": "",
+    "uuid": "fbd32020-1c77-442f-985b-f552ccbeb14b",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -600,7 +600,7 @@
   },
   {
     "id": 8000691,
-    "uuid": "",
+    "uuid": "172be304-0768-4735-8a34-384c0027bea3",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -1545,9 +1545,10 @@
   },
   {
     "id": 34762899,
-    "uuid": "",
-    "currentTier": 0,
+    "uuid": "42feb3f2-b875-4b44-adce-ee520053786f",
+    "currentTier": 616325,
     "pastTiers": [
+      0,
       2429462
     ],
     "groups": []
@@ -4918,7 +4919,7 @@
   },
   {
     "id": 4744699,
-    "uuid": "",
+    "uuid": "6f2c5fcb-2ab4-421d-866b-8edb1afba2fb",
     "currentTier": 616325,
     "pastTiers": [
       616325
