@@ -1,5 +1,14 @@
 [
   {
+    "id": 0,
+    "uuid": "F6BA3EC0-36F2-472D-9825-054701C20CFC",
+    "currentTier": 0,
+    "pastTiers": [
+      616325
+    ],
+    "groups": []
+  },
+  {
     "id": 4157222,
     "uuid": "4E24D1C4-7DE3-4C73-B71E-20CC7FD84253",
     "currentTier": 0,
