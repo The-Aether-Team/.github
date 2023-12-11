@@ -51,6 +51,8 @@ Discord/SMP Ban Appeals: https://forms.gle/hpbSsYwTeLgAzD2w6
 Twitter: https://twitter.com/DevAether
 * ![image](https://github.com/The-Aether-Team/.github/assets/67203206/f5249249-05a1-485c-a0d6-09a68a299fa6)
 Mastodon: https://mastodon.gamedev.place/@DevAether
+* ![image](https://github.com/The-Aether-Team/.github/assets/67203206/33600d1f-8782-47b3-994c-26925d45c319)
+Bluesky: https://bsky.app/profile/aether-mod.net
 * ![image](https://github.com/The-Aether-Team/.github/assets/67203206/df75683f-d29f-4bf0-b7e5-fc89f2b655c0)
 Threads: https://www.threads.net/@devaether
 * ![image](https://user-images.githubusercontent.com/67203206/204719175-a85da6de-6669-44b9-9a18-50a08b48813e.png)
