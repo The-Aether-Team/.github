@@ -42,7 +42,7 @@ Crowdin: https://translate.devaether.com/
 wiki.gg: https://aether.wiki.gg/
 
 ### Follow the Project
-* ![image](https://github.com/The-Aether-Team/.github/assets/67203206/78fa6426-8120-4acd-9915-2e3017b78750) Aether Website: https://www.aether-mod.net/
+* ![image](https://github.com/The-Aether-Team/.github/assets/67203206/78fa6426-8120-4acd-9915-2e3017b78750) Aether Website: https://aether-mod.net/
 * ![image](https://user-images.githubusercontent.com/67203206/204718793-4757c5fb-535d-4c74-a924-b6dadd4497f4.png)
 Discord: https://discord.gg/aethermod
 * ![image](https://user-images.githubusercontent.com/67203206/204719613-65a1affe-f309-440c-9fb7-ef12d904c2b1.png)
