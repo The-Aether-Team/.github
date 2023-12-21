@@ -57,9 +57,9 @@ Bluesky: https://bsky.app/profile/aether-mod.net
 Threads: https://www.threads.net/@devaether
 * ![image](https://user-images.githubusercontent.com/67203206/204719175-a85da6de-6669-44b9-9a18-50a08b48813e.png)
 Facebook: https://www.facebook.com/AetherMod
-* <img width="8" alt="instagram" src="https://github.com/The-Aether-Team/.github/assets/67203206/204be128-bf16-4de3-a677-d7b8818e6b56">
+* ![image](https://github.com/The-Aether-Team/.github/assets/67203206/204be128-bf16-4de3-a677-d7b8818e6b56")
 Instagram: https://www.instagram.com/devaether
-* <img width="8" alt="tiktok" src="https://github.com/The-Aether-Team/.github/assets/67203206/3d424a50-bd09-4c64-a6f2-534601478a91">
+* ![image](https://github.com/The-Aether-Team/.github/assets/67203206/3d424a50-bd09-4c64-a6f2-534601478a91")
 TikTok: https://www.tiktok.com/@devaether
 * ![image](https://user-images.githubusercontent.com/67203206/204719338-c47babe1-0b50-439b-b872-3fca14a9d9c4.png)
 YouTube: https://www.youtube.com/@DevAether
