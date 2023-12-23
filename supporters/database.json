@@ -967,8 +967,9 @@
   {
     "id": 15350749,
     "uuid": "",
-    "currentTier": 0,
+    "currentTier": 616326,
     "pastTiers": [
+      0,
       616325
     ],
     "groups": []
