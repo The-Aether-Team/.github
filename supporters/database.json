@@ -5222,5 +5222,14 @@
       616325
     ],
     "groups": []
+  },
+  {
+    "id": 0,
+    "uuid": "F67193DF-7215-4181-B165-9B82FEC69AF2",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "translator"
+    ]
   }
 ]
