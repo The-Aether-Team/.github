@@ -5303,5 +5303,14 @@
       616326
     ],
     "groups": []
+  },
+  {
+    "id": 0,
+    "uuid": "93F95E4D-7069-4BF9-B5FE-54B7199916CE",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "translator"
+    ]
   }
 ]
