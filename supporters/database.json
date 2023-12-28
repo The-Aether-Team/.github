@@ -4044,15 +4044,6 @@
   },
   {
     "id": 0,
-    "uuid": "7E23F336-2012-43AB-AC84-D5ACD5FA310F",
-    "currentTier": 0,
-    "pastTiers": [],
-    "groups": [
-      "contributor"
-    ]
-  },
-  {
-    "id": 0,
     "uuid": "CD2535FD-79F1-4A7A-B88C-C69F0C8707B5",
     "currentTier": 0,
     "pastTiers": [],
@@ -5347,7 +5338,9 @@
     "pastTiers": [
       616326
     ],
-    "groups": []
+    "groups": [
+      "contributor"
+    ]
   },
   {
     "id": 36602384,
