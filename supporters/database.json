@@ -5468,5 +5468,14 @@
       616326
     ],
     "groups": []
+  },
+  {
+    "id": 0,
+    "uuid": "390086DE-C949-402B-9A14-8A80BD4E1F79",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "contributor"
+    ]
   }
 ]
