@@ -5612,5 +5612,14 @@
       616326
     ],
     "groups": []
+  },
+  {
+    "id": 0,
+    "uuid": "CA04BCB8-9FA1-42EE-8CF2-B968A2C59B5C",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "contributor"
+    ]
   }
 ]
