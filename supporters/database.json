@@ -5801,5 +5801,14 @@
       2429462
     ],
     "groups": []
+  },
+  {
+    "id": 0,
+    "uuid": "0888639a-f0b8-495c-b756-8010064fe88a",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "contributor"
+    ]
   }
 ]
