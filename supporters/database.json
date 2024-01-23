@@ -5796,9 +5796,10 @@
   {
     "id": 114555741,
     "uuid": "e8997e80-b594-4f52-a6c6-6fe231d9252c",
-    "currentTier": 2429462,
+    "currentTier": 616327,
     "pastTiers": [
-      2429462
+      2429462,
+      616327
     ],
     "groups": []
   },
@@ -5826,15 +5827,6 @@
     "currentTier": 2429462,
     "pastTiers": [
       2429462
-    ],
-    "groups": []
-  },
-  {
-    "id": 114555741,
-    "uuid": "e8997e80-b594-4f52-a6c6-6fe231d9252c",
-    "currentTier": 616327,
-    "pastTiers": [
-      616327
     ],
     "groups": []
   },
