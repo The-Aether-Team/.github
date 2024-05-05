@@ -1103,8 +1103,9 @@
   {
     "id": 26801812,
     "uuid": "A4773616-3B60-4B0E-8979-F95A96D74C5E",
-    "currentTier": 0,
+    "currentTier": 616327,
     "pastTiers": [
+      0,
       616325
     ],
     "groups": []
