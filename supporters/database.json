@@ -3827,6 +3827,15 @@
   },
   {
     "id": 0,
+    "uuid": "112ae216-11fe-4c2d-9535-0bdb197cadd0",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "aether_team"
+    ]
+  },
+  {
+    "id": 0,
     "uuid": "3C0E4411-3421-40BD-B092-056D3E99B98A",
     "currentTier": 0,
     "pastTiers": [],
