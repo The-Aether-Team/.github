@@ -6724,7 +6724,7 @@
   },
   {
     "id": 76774725,
-    "uuid": "",
+    "uuid": "7B6C4A91-760E-48E0-9C00-7C76880B0BB0",
     "currentTier": 616325,
     "pastTiers": [
       616325
@@ -6737,15 +6737,6 @@
     "currentTier": 616326,
     "pastTiers": [
       616326
-    ],
-    "groups": []
-  },
-   {
-    "id": 76774725,
-    "uuid": "7B6C4A91-760E-48E0-9C00-7C76880B0BB0",
-    "currentTier": 616325,
-    "pastTiers": [
-      616325
     ],
     "groups": []
   }
