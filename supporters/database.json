@@ -7672,6 +7672,15 @@
     "groups": []
   },
   {
+    "id": 0,
+    "uuid": "07ad4e35-41d0-49d0-b16b-2ca80087d726",
+    "currentTier": 0,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
     "id": 51026296,
     "uuid": "da6c2ea2-3419-4c7e-a394-856608b9896c",
     "currentTier": 616325,
