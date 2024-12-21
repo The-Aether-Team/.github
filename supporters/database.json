@@ -4059,6 +4059,25 @@
   },
   {
     "id": 0,
+    "uuid": "28EC12C1-429D-41A0-B462-38133BD5ABC2",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "contributor",
+      "aether_team"
+    ]
+  },
+  {
+    "id": 0,
+    "uuid": "EE94B4C9-2220-44D6-9384-92886A88003B",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "contributor"
+    ]
+  },
+  {
+    "id": 0,
     "uuid": "0FD4FCCC-D0F3-403A-9806-CE2CBC199310",
     "currentTier": 0,
     "pastTiers": [],
