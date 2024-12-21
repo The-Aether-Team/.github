@@ -1441,7 +1441,11 @@
     "pastTiers": [
       616325
     ],
-    "groups": []
+    "groups": [
+      "aether_team",
+      "contributor",
+      "translator"
+    ]
   },
   {
     "id": 62431557,
@@ -3838,6 +3842,15 @@
   },
   {
     "id": 0,
+    "uuid": "517253C6-5AE6-4A70-8E8F-B8515321F774",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "aether_team"
+    ]
+  },
+  {
+    "id": 0,
     "uuid": "112ae216-11fe-4c2d-9535-0bdb197cadd0",
     "currentTier": 0,
     "pastTiers": [],
@@ -3960,16 +3973,6 @@
     "pastTiers": [],
     "groups": [
       "aether_team"
-    ]
-  },
-  {
-    "id": 0,
-    "uuid": "C56A4586-6637-46A6-8E4E-D3C9999FD009",
-    "currentTier": 0,
-    "pastTiers": [],
-    "groups": [
-      "contributor",
-      "translator"
     ]
   },
   {
