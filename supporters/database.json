@@ -4068,6 +4068,15 @@
   },
   {
     "id": 0,
+    "uuid": "726A7324-C840-4851-ACE2-D45659B29411",
+    "currentTier": 0,
+    "pastTiers": [],
+    "groups": [
+      "contributor"
+    ]
+  },
+  {
+    "id": 0,
     "uuid": "A333281D-04B7-4E11-9CB5-D7D2B1FAC626",
     "currentTier": 0,
     "pastTiers": [],
