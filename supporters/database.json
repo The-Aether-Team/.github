@@ -8153,6 +8153,15 @@
     "groups": []
   },
   {
+    "id": 0,
+    "uuid": "e379d088-7819-4fd8-893d-fd4d500d4efc",
+    "currentTier": 0,
+    "pastTiers": [
+      616326
+    ],
+    "groups": []
+  },
+  {
     "id": 127645019,
     "uuid": "982b4525-7888-4c6e-8251-4fab1ba2ebb7",
     "currentTier": 616326,
