@@ -25,6 +25,10 @@ Aether Addon: Protect Your Moa (Modrinth): https://modrinth.com/mod/aether-prote
 * ![image](https://user-images.githubusercontent.com/67203206/204717526-4ceeba4c-e376-4364-8838-ecb2a1b1e4ba.png)
 Aether Addon: Protect Your Moa (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-protect-your-moa
 * ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
+Aether Addon: Beyond Parity (Modrinth): https://modrinth.com/mod/aether-beyond-parity
+* ![image](https://user-images.githubusercontent.com/67203206/204717526-4ceeba4c-e376-4364-8838-ecb2a1b1e4ba.png)
+Aether Addon: Beyond Parity (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-beyond-parity
+* ![image](https://user-images.githubusercontent.com/67203206/204717548-68197a37-3e9b-4359-9b5f-42746a9aaac2.png)
 Aether Addon: Enhanced Extinguishing (Modrinth): https://modrinth.com/mod/aether-enhanced-extinguishing
 * ![image](https://user-images.githubusercontent.com/67203206/204717526-4ceeba4c-e376-4364-8838-ecb2a1b1e4ba.png)
 Aether Addon: Enhanced Extinguishing (CurseForge): https://www.curseforge.com/minecraft/mc-mods/aether-enhanced-extinguishing
