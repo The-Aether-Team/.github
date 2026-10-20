@@ -2,7 +2,7 @@ name: Update supporters
 
 on:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '* * * * *'
 
 jobs:
   update:
