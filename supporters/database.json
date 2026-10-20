@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "uuid": "F6BA3EC0-36F2-472D-9825-054701C20CFC",
+    "uuid": "f6ba3ec0-36f2-472d-9825-054701c20cfc",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -10,7 +10,7 @@
   },
   {
     "id": 4157222,
-    "uuid": "4E24D1C4-7DE3-4C73-B71E-20CC7FD84253",
+    "uuid": "4e24d1c4-7de3-4c73-b71e-20cc7fd84253",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -19,7 +19,7 @@
   },
   {
     "id": 256539,
-    "uuid": "A23EB89C-321B-448F-BEDA-1EE84F5F7240",
+    "uuid": "a23eb89c-321b-448f-beda-1ee84f5f7240",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -28,7 +28,7 @@
   },
   {
     "id": 25033170,
-    "uuid": "B1289EED-F118-49E0-9F42-EFE5B31264FB",
+    "uuid": "b1289eed-f118-49e0-9f42-efe5b31264fb",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -307,7 +307,7 @@
   },
   {
     "id": 20574664,
-    "uuid": "B54693AF-3AE8-4C65-ADA5",
+    "uuid": "",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -316,7 +316,7 @@
   },
   {
     "id": 8558522,
-    "uuid": "318010D0-2C23-4151-A113-2DB9156C78EB",
+    "uuid": "318010d0-2c23-4151-a113-2db9156c78eb",
     "currentTier": 0,
     "pastTiers": [
       616327
@@ -370,7 +370,7 @@
   },
   {
     "id": 17209234,
-    "uuid": "meow meow meow meow meow meow meow m",
+    "uuid": "",
     "currentTier": 616325,
     "pastTiers": [
       616325
@@ -514,7 +514,7 @@
   },
   {
     "id": 50459901,
-    "uuid": "112AE216-11FE-4C2D-9535-0BDB197CAED0",
+    "uuid": "112ae216-11fe-4c2d-9535-0bdb197caed0",
     "currentTier": 2429462,
     "pastTiers": [
       2429462
@@ -550,7 +550,7 @@
   },
   {
     "id": 92881074,
-    "uuid": "6FD9FE00-893F-46ED-BC84-90DA6FE3D766",
+    "uuid": "6fd9fe00-893f-46ed-bc84-90da6fe3d766",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -559,7 +559,7 @@
   },
   {
     "id": 53870635,
-    "uuid": "A8EEC88A-3E72-473A-894A-A99DF6F4CA29",
+    "uuid": "a8eec88a-3e72-473a-894a-a99df6f4ca29",
     "currentTier": 616326,
     "pastTiers": [
       0,
@@ -596,7 +596,7 @@
   },
   {
     "id": 92556361,
-    "uuid": "8B8DE713-15B2-4214-B689-FCA65985F38D",
+    "uuid": "8b8de713-15b2-4214-b689-fca65985f38d",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -614,7 +614,7 @@
   },
   {
     "id": 89072035,
-    "uuid": "D3722AA7-4E09-4702-9025-4AA4408D8282",
+    "uuid": "d3722aa7-4e09-4702-9025-4aa4408d8282",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -704,7 +704,7 @@
   },
   {
     "id": 9454099,
-    "uuid": "382CFA7A-B6DB-435A-88E9-5D7C61B1B7FE",
+    "uuid": "382cfa7a-b6db-435a-88e9-5d7c61b1b7fe",
     "currentTier": 2429462,
     "pastTiers": [
       2429462,
@@ -787,7 +787,7 @@
   },
   {
     "id": 92393950,
-    "uuid": "02B8D121-C733-4279-AB2C-51367DDDF8E2",
+    "uuid": "02b8d121-c733-4279-ab2c-51367dddf8e2",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -796,7 +796,7 @@
   },
   {
     "id": 57340484,
-    "uuid": "DE1B7D50-ADE4-48FC-9CCF-D3F45216BA67",
+    "uuid": "de1b7d50-ade4-48fc-9ccf-d3f45216ba67",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -814,7 +814,7 @@
   },
   {
     "id": 5116086,
-    "uuid": "F731489D-C4EC-478B-822F-A577E4440713",
+    "uuid": "f731489d-c4ec-478b-822f-a577e4440713",
     "currentTier": 0,
     "pastTiers": [
       616327
@@ -895,7 +895,7 @@
   },
   {
     "id": 36336010,
-    "uuid": "CFA7D789-560C-474A-9BDB-990969E57975",
+    "uuid": "cfa7d789-560c-474a-9bdb-990969e57975",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -904,7 +904,7 @@
   },
   {
     "id": 72772127,
-    "uuid": "B23AA3AE-B796-4F56-8148-5AF10C7DCD8C",
+    "uuid": "b23aa3ae-b796-4f56-8148-5af10c7dcd8c",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -913,7 +913,7 @@
   },
   {
     "id": 83760115,
-    "uuid": "64DBF979-2C71-4CF5-A779-39CBABC159D5",
+    "uuid": "64dbf979-2c71-4cf5-a779-39cbabc159d5",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1094,7 +1094,7 @@
   },
   {
     "id": 89945043,
-    "uuid": "0D75A21E-EBFA-4D22-8D3F-F54C3391C1C2",
+    "uuid": "0d75a21e-ebfa-4d22-8d3f-f54c3391c1c2",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -1103,7 +1103,7 @@
   },
   {
     "id": 26801812,
-    "uuid": "A4773616-3B60-4B0E-8979-F95A96D74C5E",
+    "uuid": "a4773616-3b60-4b0e-8979-f95a96d74c5e",
     "currentTier": 616327,
     "pastTiers": [
       0,
@@ -1122,7 +1122,7 @@
   },
   {
     "id": 17406563,
-    "uuid": "C08D6BFF-385B-468E-8BCC-0A782C84792E",
+    "uuid": "c08d6bff-385b-468e-8bcc-0a782c84792e",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1131,7 +1131,7 @@
   },
   {
     "id": 26178526,
-    "uuid": "B0ADB444-CF9C-43C2-9946-A8137E94CA7F",
+    "uuid": "b0adb444-cf9c-43c2-9946-a8137e94ca7f",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -1149,7 +1149,7 @@
   },
   {
     "id": 50206176,
-    "uuid": "6FC3A3C5-6F5A-418D-94B0-9FBB08B39302",
+    "uuid": "6fc3a3c5-6f5a-418d-94b0-9fbb08b39302",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1212,7 +1212,7 @@
   },
   {
     "id": 33294105,
-    "uuid": "4DFEBDCD-1973-4464-9A6F-854A84128578",
+    "uuid": "4dfebdcd-1973-4464-9a6f-854a84128578",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -1275,7 +1275,7 @@
   },
   {
     "id": 5171010,
-    "uuid": "DB4C8AC4-0549-412E-A43A-8130B6600C7A",
+    "uuid": "db4c8ac4-0549-412e-a43a-8130b6600c7a",
     "currentTier": 2429462,
     "pastTiers": [
       2429462
@@ -1356,7 +1356,7 @@
   },
   {
     "id": 24124282,
-    "uuid": "F2112465-110A-47E2-9F7F-F81CA28957F5",
+    "uuid": "f2112465-110a-47e2-9f7f-f81ca28957f5",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 67974845,
-    "uuid": "F6153427-7597-412C-B80A-4CE8D0AA66DB",
+    "uuid": "f6153427-7597-412c-b80a-4ce8d0aa66db",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -1437,7 +1437,7 @@
   },
   {
     "id": 60816195,
-    "uuid": "C56A4586-6637-46A6-8E4E-D3C9999FD009",
+    "uuid": "c56a4586-6637-46a6-8e4e-d3c9999fd009",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 6549987,
-    "uuid": "CB3931A4-AEEB-47F0-9295-FB81380CE56B",
+    "uuid": "cb3931a4-aeeb-47f0-9295-fb81380ce56b",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 26223289,
-    "uuid": "17F6BF3C-F52F-4CA4-923E-48899D5FFB7D",
+    "uuid": "17f6bf3c-f52f-4ca4-923e-48899d5ffb7d",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1504,7 +1504,7 @@
   },
   {
     "id": 25236815,
-    "uuid": "04B4F333-C108-48DE-881A-70C906AEB498",
+    "uuid": "04b4f333-c108-48de-881a-70c906aeb498",
     "currentTier": 0,
     "pastTiers": [
       616327
@@ -1558,7 +1558,7 @@
   },
   {
     "id": 13979699,
-    "uuid": "C275CB7B-FE63-4893-BA0D-BB93BB11CE54",
+    "uuid": "c275cb7b-fe63-4893-ba0d-bb93bb11ce54",
     "currentTier": 0,
     "pastTiers": [
       2429462
@@ -1649,7 +1649,7 @@
   },
   {
     "id": 47617188,
-    "uuid": "B6D47F69-2FA5-408B-BC08-BAB045BE9EDA",
+    "uuid": "b6d47f69-2fa5-408b-bc08-bab045be9eda",
     "currentTier": 616325,
     "pastTiers": [
       616325
@@ -1660,7 +1660,7 @@
   },
   {
     "id": 19665858,
-    "uuid": "B4FD940E-186E-4087-8459-0AC89118EB91",
+    "uuid": "b4fd940e-186e-4087-8459-0ac89118eb91",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1876,7 +1876,7 @@
   },
   {
     "id": 22424158,
-    "uuid": "549BCCD8-7AEA-4405-9159-7A66D211A8B9",
+    "uuid": "549bccd8-7aea-4405-9159-7a66d211a8b9",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 35000888,
-    "uuid": "6149009F-50EA-400F-871A-3059B5A0006E",
+    "uuid": "6149009f-50ea-400f-871a-3059b5a0006e",
     "currentTier": 0,
     "pastTiers": [
       2429462
@@ -2164,7 +2164,7 @@
   },
   {
     "id": 15239565,
-    "uuid": "F03C7FCD-66A3-44DC-9653-7098101BD3E3",
+    "uuid": "f03c7fcd-66a3-44dc-9653-7098101bd3e3",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -2182,7 +2182,7 @@
   },
   {
     "id": 4742887,
-    "uuid": "6E5A4768-97C5-4C60-9092-774C42BC2766",
+    "uuid": "6e5a4768-97c5-4c60-9092-774c42bc2766",
     "currentTier": 0,
     "pastTiers": [
       2429462
@@ -2209,7 +2209,7 @@
   },
   {
     "id": 7734921,
-    "uuid": "9979F172-DAEA-44E4-8D02-E550F5BAD434",
+    "uuid": "9979f172-daea-44e4-8d02-e550f5bad434",
     "currentTier": 0,
     "pastTiers": [
       2429462
@@ -2398,7 +2398,7 @@
   },
   {
     "id": 10204502,
-    "uuid": "F91E3E28-7A6A-4ED6-A5F7-D5DC955FFAC5",
+    "uuid": "f91e3e28-7a6a-4ed6-a5f7-d5dc955ffac5",
     "currentTier": 0,
     "pastTiers": [
       2429462
@@ -2434,7 +2434,7 @@
   },
   {
     "id": 13345557,
-    "uuid": "917F6FFD-77EA-48EC-B20A-2A43E9BF67AA",
+    "uuid": "917f6ffd-77ea-48ec-b20a-2a43e9bf67aa",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -2497,7 +2497,7 @@
   },
   {
     "id": 18193992,
-    "uuid": "58A5D694-A8A6-4605-AB33-D6904107AD5F",
+    "uuid": "58a5d694-a8a6-4605-ab33-d6904107ad5f",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -2535,7 +2535,7 @@
   },
   {
     "id": 17613729,
-    "uuid": "8892214E-2D0D-43AF-A86C-B2D760391A2C",
+    "uuid": "8892214e-2d0d-43af-a86c-b2d760391a2c",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -2697,7 +2697,7 @@
   },
   {
     "id": 11341390,
-    "uuid": "CA4024D3-C1E6-4AA2-B53D-43A5ED5056E4",
+    "uuid": "ca4024d3-c1e6-4aa2-b53d-43a5ed5056e4",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -2706,7 +2706,7 @@
   },
   {
     "id": 0,
-    "uuid": "56823D16-94A2-49A9-88B1-ADFB5B4F4348",
+    "uuid": "56823d16-94a2-49a9-88b1-adfb5b4f4348",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -2869,7 +2869,7 @@
   },
   {
     "id": 7101579,
-    "uuid": "8BDFEB5B-7B8D-4525-9150-A818E0B48703",
+    "uuid": "8bdfeb5b-7b8d-4525-9150-a818e0b48703",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -3016,7 +3016,7 @@
   },
   {
     "id": 5146173,
-    "uuid": "68CF5D03-6DF4-47F5-943F-957F73F52165",
+    "uuid": "68cf5d03-6df4-47f5-943f-957f73f52165",
     "currentTier": 0,
     "pastTiers": [
       616327
@@ -3142,7 +3142,7 @@
   },
   {
     "id": 4692711,
-    "uuid": "08FDEBA2-E838-428A-8AB5-4B2DA3FBF6C2",
+    "uuid": "08fdeba2-e838-428a-8ab5-4b2da3fbf6c2",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -3214,7 +3214,7 @@
   },
   {
     "id": 3952756,
-    "uuid": "6D48F888-6529-43E6-A0A4-3F2FA0070C46",
+    "uuid": "6d48f888-6529-43e6-a0a4-3f2fa0070c46",
     "currentTier": 616327,
     "pastTiers": [
       616327
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 224095,
-    "uuid": "A0FDEE96-D811-40F8-95C4-2431D01618EF",
+    "uuid": "a0fdee96-d811-40f8-95c4-2431d01618ef",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -3304,7 +3304,7 @@
   },
   {
     "id": 4095740,
-    "uuid": "4D9C1590-3A8F-4D88-B115-4B2E502857B1",
+    "uuid": "4d9c1590-3a8f-4d88-b115-4b2e502857b1",
     "currentTier": 0,
     "pastTiers": [
       2429462
@@ -3358,7 +3358,7 @@
   },
   {
     "id": 4332263,
-    "uuid": "2D34186A-F86D-4C42-BD73-C7D89A78DFEB",
+    "uuid": "2d34186a-f86d-4c42-bd73-c7d89a78dfeb",
     "currentTier": 616325,
     "pastTiers": [
       0,
@@ -3530,7 +3530,7 @@
   },
   {
     "id": 2440071,
-    "uuid": "5FE9E501-ED9F-446E-954A-2079C6F34B6E",
+    "uuid": "5fe9e501-ed9f-446e-954a-2079c6f34b6e",
     "currentTier": 0,
     "pastTiers": [
       616325
@@ -3548,7 +3548,7 @@
   },
   {
     "id": 229897,
-    "uuid": "3E9BD821-3224-4BFD-B08E-DC448B316992",
+    "uuid": "3e9bd821-3224-4bfd-b08e-dc448b316992",
     "currentTier": 0,
     "pastTiers": [
       0
@@ -3836,7 +3836,7 @@
   },
   {
     "id": 0,
-    "uuid": "13655AC1-584D-4785-B227-650308195121",
+    "uuid": "13655ac1-584d-4785-b227-650308195121",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3845,7 +3845,7 @@
   },
   {
     "id": 0,
-    "uuid": "517253C6-5AE6-4A70-8E8F-B8515321F774",
+    "uuid": "517253c6-5ae6-4a70-8e8f-b8515321f774",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3863,7 +3863,7 @@
   },
   {
     "id": 0,
-    "uuid": "3C0E4411-3421-40BD-B092-056D3E99B98A",
+    "uuid": "3c0e4411-3421-40bd-b092-056d3e99b98a",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3872,7 +3872,7 @@
   },
   {
     "id": 0,
-    "uuid": "6FB2F965-6B57-46DE-9EF3-0EF4C9B9BDC6",
+    "uuid": "6fb2f965-6b57-46de-9ef3-0ef4c9b9bdc6",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3881,7 +3881,7 @@
   },
   {
     "id": 0,
-    "uuid": "C0643897-C500-4F61-A62A-8051801562A9",
+    "uuid": "c0643897-c500-4f61-a62a-8051801562a9",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3890,7 +3890,7 @@
   },
   {
     "id": 0,
-    "uuid": "C3E6871E-8E60-490A-8A8D-2BBE35AD1604",
+    "uuid": "c3e6871e-8e60-490a-8a8d-2bbe35ad1604",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3899,7 +3899,7 @@
   },
   {
     "id": 0,
-    "uuid": "78C7F290-62AA-4AFA-9D9A-F8E6B2F85206",
+    "uuid": "78c7f290-62aa-4afa-9d9a-f8e6b2f85206",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3908,7 +3908,7 @@
   },
   {
     "id": 0,
-    "uuid": "D475AF59-D73C-42BE-90ED-F1A78F10D452",
+    "uuid": "d475af59-d73c-42be-90ed-f1a78f10d452",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3917,7 +3917,7 @@
   },
   {
     "id": 0,
-    "uuid": "168FD38E-D43C-4130-95E4-D7501E569892",
+    "uuid": "168fd38e-d43c-4130-95e4-d7501e569892",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3926,7 +3926,7 @@
   },
   {
     "id": 0,
-    "uuid": "D5570878-6F70-42EA-A311-6370965D2A2B",
+    "uuid": "d5570878-6f70-42ea-a311-6370965d2a2b",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3935,7 +3935,7 @@
   },
   {
     "id": 0,
-    "uuid": "B5EE3D5D-2AD7-4642-B9D4-6B041AD600A4",
+    "uuid": "b5ee3d5d-2ad7-4642-b9d4-6b041ad600a4",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3944,7 +3944,7 @@
   },
   {
     "id": 0,
-    "uuid": "6E8BE0BA-E4BB-46AF-AEA8-2C1F5EEC5BC2",
+    "uuid": "6e8be0ba-e4bb-46af-aea8-2c1f5eec5bc2",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3953,7 +3953,7 @@
   },
   {
     "id": 0,
-    "uuid": "2AFD6A1D-1531-4985-A104-399C0C19351D",
+    "uuid": "2afd6a1d-1531-4985-a104-399c0c19351d",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3962,7 +3962,7 @@
   },
   {
     "id": 0,
-    "uuid": "FFB94179-DD54-400D-9ECE-834720CD7BE9",
+    "uuid": "ffb94179-dd54-400d-9ece-834720cd7be9",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3971,7 +3971,7 @@
   },
   {
     "id": 0,
-    "uuid": "68FEF942-0C9F-45B9-8B72-6D94A7D08B8E",
+    "uuid": "68fef942-0c9f-45b9-8b72-6d94a7d08b8e",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3980,7 +3980,7 @@
   },
   {
     "id": 0,
-    "uuid": "A3740199-C600-4CE9-931E-E819621479D4",
+    "uuid": "a3740199-c600-4ce9-931e-e819621479d4",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3989,7 +3989,7 @@
   },
   {
     "id": 0,
-    "uuid": "5CAB3FCF-0EDA-46A4-982B-31EC9CE0722E",
+    "uuid": "5cab3fcf-0eda-46a4-982b-31ec9ce0722e",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -3998,7 +3998,7 @@
   },
   {
     "id": 0,
-    "uuid": "5399B615-3440-4C66-939D-AB1375952AC3",
+    "uuid": "5399b615-3440-4c66-939d-ab1375952ac3",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4007,7 +4007,7 @@
   },
   {
     "id": 0,
-    "uuid": "1F0BA863-5147-45FE-BF7D-1D1C91376491",
+    "uuid": "1f0ba863-5147-45fe-bf7d-1d1c91376491",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4016,7 +4016,7 @@
   },
   {
     "id": 0,
-    "uuid": "8C826F34-113B-4238-A173-44639C53B6E6",
+    "uuid": "8c826f34-113b-4238-a173-44639c53b6e6",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4025,7 +4025,7 @@
   },
   {
     "id": 0,
-    "uuid": "1D680BB6-2A9A-4F25-BF2F-A1AF74361D69",
+    "uuid": "1d680bb6-2a9a-4f25-bf2f-a1af74361d69",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4034,7 +4034,7 @@
   },
   {
     "id": 0,
-    "uuid": "4BFB28A3-005D-4FC9-9238-A55C6C17B575",
+    "uuid": "4bfb28a3-005d-4fc9-9238-a55c6c17b575",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4043,7 +4043,7 @@
   },
   {
     "id": 0,
-    "uuid": "5F112332-0993-4F52-A5AB-9A55DC3173CB",
+    "uuid": "5f112332-0993-4f52-a5ab-9a55dc3173cb",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4052,7 +4052,7 @@
   },
   {
     "id": 0,
-    "uuid": "6F8BE24F-03F3-4288-9218-16C9ECC08C8F",
+    "uuid": "6f8be24f-03f3-4288-9218-16c9ecc08c8f",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4062,7 +4062,7 @@
   },
   {
     "id": 0,
-    "uuid": "28EC12C1-429D-41A0-B462-38133BD5ABC2",
+    "uuid": "28ec12c1-429d-41a0-b462-38133bd5abc2",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4072,7 +4072,7 @@
   },
   {
     "id": 0,
-    "uuid": "EE94B4C9-2220-44D6-9384-92886A88003B",
+    "uuid": "ee94b4c9-2220-44d6-9384-92886a88003b",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4081,7 +4081,7 @@
   },
   {
     "id": 0,
-    "uuid": "72AFFB75-F5B6-4817-99FA-BDF2648E7E61",
+    "uuid": "72affb75-f5b6-4817-99fa-bdf2648e7e61",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4090,7 +4090,7 @@
   },
   {
     "id": 0,
-    "uuid": "0FD4FCCC-D0F3-403A-9806-CE2CBC199310",
+    "uuid": "0fd4fccc-d0f3-403a-9806-ce2cbc199310",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4099,7 +4099,7 @@
   },
   {
     "id": 0,
-    "uuid": "726A7324-C840-4851-ACE2-D45659B29411",
+    "uuid": "726a7324-c840-4851-ace2-d45659b29411",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4108,7 +4108,7 @@
   },
   {
     "id": 0,
-    "uuid": "A333281D-04B7-4E11-9CB5-D7D2B1FAC626",
+    "uuid": "a333281d-04b7-4e11-9cb5-d7d2b1fac626",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4117,7 +4117,7 @@
   },
   {
     "id": 0,
-    "uuid": "CD2535FD-79F1-4A7A-B88C-C69F0C8707B5",
+    "uuid": "cd2535fd-79f1-4a7a-b88c-c69f0c8707b5",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4126,7 +4126,7 @@
   },
   {
     "id": 0,
-    "uuid": "B9A3FBAF-9833-4E5D-9470-5557431F7384",
+    "uuid": "b9a3fbaf-9833-4e5d-9470-5557431f7384",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4135,7 +4135,7 @@
   },
   {
     "id": 0,
-    "uuid": "3F8D7261-EF5A-4291-B27B-0D0F31535E66",
+    "uuid": "3f8d7261-ef5a-4291-b27b-0d0f31535e66",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4144,7 +4144,7 @@
   },
   {
     "id": 0,
-    "uuid": "292B93D6-53F3-4B66-B131-0D9C9D3D04C8",
+    "uuid": "292b93d6-53f3-4b66-b131-0d9c9d3d04c8",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4153,7 +4153,7 @@
   },
   {
     "id": 0,
-    "uuid": "346C2035-326A-4BB8-8DF7-71640AE0F587",
+    "uuid": "346c2035-326a-4bb8-8df7-71640ae0f587",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4162,7 +4162,7 @@
   },
   {
     "id": 0,
-    "uuid": "C47FE203-99E7-45C4-9C19-2C9281B74364",
+    "uuid": "c47fe203-99e7-45c4-9c19-2c9281b74364",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4171,7 +4171,7 @@
   },
   {
     "id": 0,
-    "uuid": "997DB427-D11A-4D4C-8306-F2A7F298CEF8",
+    "uuid": "997db427-d11a-4d4c-8306-f2a7f298cef8",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4180,7 +4180,7 @@
   },
   {
     "id": 0,
-    "uuid": "14BBDA34-2613-40B2-B5F8-C96CCD3083FB",
+    "uuid": "14bbda34-2613-40b2-b5f8-c96ccd3083fb",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4189,7 +4189,7 @@
   },
   {
     "id": 0,
-    "uuid": "904BC7CC-C99D-40C8-9297-2EFC3E08205C",
+    "uuid": "904bc7cc-c99d-40c8-9297-2efc3e08205c",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4199,7 +4199,7 @@
   },
   {
     "id": 0,
-    "uuid": "C15C4D6D-9A80-4D6B-9EDA-770859B5ED91",
+    "uuid": "c15c4d6d-9a80-4d6b-9eda-770859b5ed91",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4208,7 +4208,7 @@
   },
   {
     "id": 0,
-    "uuid": "4F0E8DD5-CAF4-4D88-BFA4-1B0F1E13779F",
+    "uuid": "4f0e8dd5-caf4-4d88-bfa4-1b0f1e13779f",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4217,7 +4217,7 @@
   },
   {
     "id": 0,
-    "uuid": "6C249311-F939-4E66-9F31-49B753BFB14B",
+    "uuid": "6c249311-f939-4e66-9f31-49b753bfb14b",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4226,7 +4226,7 @@
   },
   {
     "id": 0,
-    "uuid": "2B5187C9-DC5D-480E-AB6F-E884E92FCE45",
+    "uuid": "2b5187c9-dc5d-480e-ab6f-e884e92fce45",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4235,7 +4235,7 @@
   },
   {
     "id": 0,
-    "uuid": "CF51EF47-04A8-439A-AA41-47D871B0B837",
+    "uuid": "cf51ef47-04a8-439a-aa41-47d871b0b837",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4244,7 +4244,7 @@
   },
   {
     "id": 0,
-    "uuid": "353A859B-BA16-4E6A-8F63-9A8C79AB0071",
+    "uuid": "353a859b-ba16-4e6a-8f63-9a8c79ab0071",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4254,7 +4254,7 @@
   },
   {
     "id": 0,
-    "uuid": "93822537-D79F-4672-B9A8-04AAE16131D2",
+    "uuid": "93822537-d79f-4672-b9a8-04aae16131d2",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4263,7 +4263,7 @@
   },
   {
     "id": 0,
-    "uuid": "F2914DAE-441A-4254-AA5C-2EC4D917B7A6",
+    "uuid": "f2914dae-441a-4254-aa5c-2ec4d917b7a6",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4272,7 +4272,7 @@
   },
   {
     "id": 0,
-    "uuid": "869AED85-9DC0-4187-92D7-6064C202A844",
+    "uuid": "869aed85-9dc0-4187-92d7-6064c202a844",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4281,7 +4281,7 @@
   },
   {
     "id": 0,
-    "uuid": "8AB9311E-6B8D-4633-80D5-E1798B1C6A96",
+    "uuid": "8ab9311e-6b8d-4633-80d5-e1798b1c6a96",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4290,7 +4290,7 @@
   },
   {
     "id": 0,
-    "uuid": "C4FA4377-5147-43BD-B571-E0E0DB46E4F6",
+    "uuid": "c4fa4377-5147-43bd-b571-e0e0db46e4f6",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4299,7 +4299,7 @@
   },
   {
     "id": 0,
-    "uuid": "2805E962-6A9F-468D-B501-EF1DCAD2B145",
+    "uuid": "2805e962-6a9f-468d-b501-ef1dcad2b145",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4308,7 +4308,7 @@
   },
   {
     "id": 0,
-    "uuid": "4FDDBE23-BFF3-448F-B13C-51ED50CD5C22",
+    "uuid": "4fddbe23-bff3-448f-b13c-51ed50cd5c22",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4317,7 +4317,7 @@
   },
   {
     "id": 0,
-    "uuid": "E664D8B9-8B70-4549-819D-C3A60945D51F",
+    "uuid": "e664d8b9-8b70-4549-819d-c3a60945d51f",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4326,7 +4326,7 @@
   },
   {
     "id": 0,
-    "uuid": "32BF3F40-F060-410B-8977-A08A2349B17F",
+    "uuid": "32bf3f40-f060-410b-8977-a08a2349b17f",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4335,7 +4335,7 @@
   },
   {
     "id": 0,
-    "uuid": "9F898572-B902-4ADD-ABBF-15028A4E1118",
+    "uuid": "9f898572-b902-4add-abbf-15028a4e1118",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4344,7 +4344,7 @@
   },
   {
     "id": 0,
-    "uuid": "1F4E4D08-C50B-4025-8419-4BC0F4A3FB4E",
+    "uuid": "1f4e4d08-c50b-4025-8419-4bc0f4a3fb4e",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4353,7 +4353,7 @@
   },
   {
     "id": 0,
-    "uuid": "06AC52D4-3484-45FF-B141-176B35F04CFE",
+    "uuid": "06ac52d4-3484-45ff-b141-176b35f04cfe",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4362,7 +4362,7 @@
   },
   {
     "id": 0,
-    "uuid": "3F4CF935-37FF-4B69-A1EA-9E99815EBA6",
+    "uuid": "3f4cf935-37ff-4b69-a1ea-09e99815eba6",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4371,7 +4371,7 @@
   },
   {
     "id": 0,
-    "uuid": "275B4A4A-1332-491F-862D-D62048E94612",
+    "uuid": "275b4a4a-1332-491f-862d-d62048e94612",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4380,7 +4380,7 @@
   },
   {
     "id": 0,
-    "uuid": "28C21737-FD23-4318-841F-6605B5FB6DC6",
+    "uuid": "28c21737-fd23-4318-841f-6605b5fb6dc6",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4389,7 +4389,7 @@
   },
   {
     "id": 0,
-    "uuid": "5F820C39-5883-4392-B174-3125AC05E38C",
+    "uuid": "5f820c39-5883-4392-b174-3125ac05e38c",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4398,7 +4398,7 @@
   },
   {
     "id": 0,
-    "uuid": "0C063BFD-3521-413D-A766-50BE1D71F00E",
+    "uuid": "0c063bfd-3521-413d-a766-50be1d71f00e",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4407,7 +4407,7 @@
   },
   {
     "id": 0,
-    "uuid": "20073CB8-A092-47E2-9A60-BCA856E62FAF",
+    "uuid": "20073cb8-a092-47e2-9a60-bca856e62faf",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4416,7 +4416,7 @@
   },
   {
     "id": 0,
-    "uuid": "8D945389-6105-4A8D-8BE7-088DA387D173",
+    "uuid": "8d945389-6105-4a8d-8be7-088da387d173",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4425,7 +4425,7 @@
   },
   {
     "id": 0,
-    "uuid": "0E305085-6EF0-4E46-A7B0-18E78827C44B",
+    "uuid": "0e305085-6ef0-4e46-a7b0-18e78827c44b",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4434,7 +4434,7 @@
   },
   {
     "id": 0,
-    "uuid": "2C6D7B3D-7674-4B18-8D86-BB6A707EA8E4",
+    "uuid": "2c6d7b3d-7674-4b18-8d86-bb6a707ea8e4",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4443,7 +4443,7 @@
   },
   {
     "id": 0,
-    "uuid": "8F9BC2ED-1BB5-41ED-91BE-02625C76BD7F",
+    "uuid": "8f9bc2ed-1bb5-41ed-91be-02625c76bd7f",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4452,7 +4452,7 @@
   },
   {
     "id": 0,
-    "uuid": "216A0986-EE67-4918-AB5E-E06E8E3A406D",
+    "uuid": "216a0986-ee67-4918-ab5e-e06e8e3a406d",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4461,7 +4461,7 @@
   },
   {
     "id": 0,
-    "uuid": "43E07F61-281B-4D3A-9A11-511BF9C8FA0C",
+    "uuid": "43e07f61-281b-4d3a-9a11-511bf9c8fa0c",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4866,7 +4866,7 @@
   },
   {
     "id": 11722099,
-    "uuid": "EC887A47-B50B-492C-B675-3E8E93A0428B",
+    "uuid": "ec887a47-b50b-492c-b675-3e8e93a0428b",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -4938,7 +4938,7 @@
   },
   {
     "id": 0,
-    "uuid": "D44F4C22-D19F-4402-AB94-18798EC4AA44",
+    "uuid": "d44f4c22-d19f-4402-ab94-18798ec4aa44",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4947,7 +4947,7 @@
   },
   {
     "id": 0,
-    "uuid": "8B8D8E8F-2759-47C6-ACB5-5827DE8A72B8",
+    "uuid": "8b8d8e8f-2759-47c6-acb5-5827de8a72b8",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4956,7 +4956,7 @@
   },
   {
     "id": 0,
-    "uuid": "44CC53F5-D937-48F5-8A1C-67D24F455BD9",
+    "uuid": "44cc53f5-d937-48f5-8a1c-67d24f455bd9",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4965,7 +4965,7 @@
   },
   {
     "id": 0,
-    "uuid": "1F08D3F3-5765-4FDB-B6AC-AF4BE2EA241C",
+    "uuid": "1f08d3f3-5765-4fdb-b6ac-af4be2ea241c",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -4974,7 +4974,7 @@
   },
   {
     "id": 0,
-    "uuid": "B82D93EA-8FF7-4AB9-95E9-0BA7D44CE7D2",
+    "uuid": "b82d93ea-8ff7-4ab9-95e9-0ba7d44ce7d2",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5073,7 +5073,7 @@
   },
   {
     "id": 0,
-    "uuid": "2F4FDF4E-7FDA-426B-B4D7-B6BC34EFEDA3",
+    "uuid": "2f4fdf4e-7fda-426b-b4d7-b6bc34efeda3",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5082,7 +5082,7 @@
   },
   {
     "id": 0,
-    "uuid": "D4929FA0-6FCA-437F-B40A-0AF88347D115",
+    "uuid": "d4929fa0-6fca-437f-b40a-0af88347d115",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5091,7 +5091,7 @@
   },
   {
     "id": 0,
-    "uuid": "C77516D3-4B47-4001-8597-627B8729B466",
+    "uuid": "c77516d3-4b47-4001-8597-627b8729b466",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5100,7 +5100,7 @@
   },
   {
     "id": 0,
-    "uuid": "05738B1E-D9C6-4C49-8C0C-386C48A183CD",
+    "uuid": "05738b1e-d9c6-4c49-8c0c-386c48a183cd",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5109,7 +5109,7 @@
   },
   {
     "id": 0,
-    "uuid": "FD2CE867-7EE6-4339-958F-25D64CAB781B",
+    "uuid": "fd2ce867-7ee6-4339-958f-25d64cab781b",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5118,7 +5118,7 @@
   },
   {
     "id": 0,
-    "uuid": "0C6CE074-A51B-4E8F-A53F-0059D25F2A9F",
+    "uuid": "0c6ce074-a51b-4e8f-a53f-0059d25f2a9f",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5127,7 +5127,7 @@
   },
   {
     "id": 0,
-    "uuid": "81CE03C0-7FB5-4EF8-BA63-8C231A708FC8",
+    "uuid": "81ce03c0-7fb5-4ef8-ba63-8c231a708fc8",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5136,7 +5136,7 @@
   },
   {
     "id": 0,
-    "uuid": "4526069B-3618-463E-9F27-96C559A135F7",
+    "uuid": "4526069b-3618-463e-9f27-96c559a135f7",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5145,7 +5145,7 @@
   },
   {
     "id": 0,
-    "uuid": "85434ED5-3975-4FFE-A33A-F402B82C6EB8",
+    "uuid": "85434ed5-3975-4ffe-a33a-f402b82c6eb8",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5154,7 +5154,7 @@
   },
   {
     "id": 0,
-    "uuid": "43E07F61-281B-4D3A-9A11-511BF9C8FA0C",
+    "uuid": "43e07f61-281b-4d3a-9a11-511bf9c8fa0c",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5163,7 +5163,7 @@
   },
   {
     "id": 0,
-    "uuid": "80728E3C-0B7D-40C8-A73E-50006E543A22",
+    "uuid": "80728e3c-0b7d-40c8-a73e-50006e543a22",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5172,7 +5172,7 @@
   },
   {
     "id": 0,
-    "uuid": "A4773616-3B60-4B0E-8979-F95A96D74C5E",
+    "uuid": "a4773616-3b60-4b0e-8979-f95a96d74c5e",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5181,7 +5181,7 @@
   },
   {
     "id": 0,
-    "uuid": "28EC12C1-429D-41A0-B462-38133BD5ABC2",
+    "uuid": "28ec12c1-429d-41a0-b462-38133bd5abc2",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5190,7 +5190,7 @@
   },
   {
     "id": 0,
-    "uuid": "A02FD1AC-B848-465B-9C3A-2F811F5F6BF8",
+    "uuid": "a02fd1ac-b848-465b-9c3a-2f811f5f6bf8",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5199,7 +5199,7 @@
   },
   {
     "id": 0,
-    "uuid": "E4BED0F7-18AC-4FD4-9E0B-354ED016D1CB",
+    "uuid": "e4bed0f7-18ac-4fd4-9e0b-354ed016d1cb",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5208,7 +5208,7 @@
   },
   {
     "id": 0,
-    "uuid": "EF84687E-9395-47FA-9691-6ACE569E9556",
+    "uuid": "ef84687e-9395-47fa-9691-6ace569e9556",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5271,7 +5271,7 @@
   },
   {
     "id": 0,
-    "uuid": "20F05082-8450-4841-9FE4-A36AA89249C1",
+    "uuid": "20f05082-8450-4841-9fe4-a36aa89249c1",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5290,7 +5290,7 @@
   },
   {
     "id": 0,
-    "uuid": "F67193DF-7215-4181-B165-9B82FEC69AF2",
+    "uuid": "f67193df-7215-4181-b165-9b82fec69af2",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5371,7 +5371,7 @@
   },
   {
     "id": 0,
-    "uuid": "93F95E4D-7069-4BF9-B5FE-54B7199916CE",
+    "uuid": "93f95e4d-7069-4bf9-b5fe-54b7199916ce",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5436,7 +5436,7 @@
   },
   {
     "id": 0,
-    "uuid": "6B9F0883-3611-4A57-ADB4-2DA330283887",
+    "uuid": "6b9f0883-3611-4a57-adb4-2da330283887",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5544,7 +5544,7 @@
   },
   {
     "id": 0,
-    "uuid": "390086DE-C949-402B-9A14-8A80BD4E1F79",
+    "uuid": "390086de-c949-402b-9a14-8a80bd4e1f79",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5589,7 +5589,7 @@
   },
   {
     "id": 0,
-    "uuid": "726A7324-C840-4851-ACE2-D45659B29411",
+    "uuid": "726a7324-c840-4851-ace2-d45659b29411",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5598,7 +5598,7 @@
   },
   {
     "id": 0,
-    "uuid": "48DF8F4E-6998-4141-AE50-DAC1CF70183E",
+    "uuid": "48df8f4e-6998-4141-ae50-dac1cf70183e",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5625,7 +5625,7 @@
   },
   {
     "id": 0,
-    "uuid": "F53CA458-4F11-40BA-96C0-EFBF181F52EE",
+    "uuid": "f53ca458-4f11-40ba-96c0-efbf181f52ee",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5652,7 +5652,7 @@
   },
   {
     "id": 0,
-    "uuid": "615ED918-3EAF-4F73-A3C8-631B4D7DA0A1",
+    "uuid": "615ed918-3eaf-4f73-a3c8-631b4d7da0a1",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -5688,7 +5688,7 @@
   },
   {
     "id": 0,
-    "uuid": "CA04BCB8-9FA1-42EE-8CF2-B968A2C59B5C",
+    "uuid": "ca04bcb8-9fa1-42ee-8cf2-b968a2c59b5c",
     "currentTier": 0,
     "pastTiers": [],
     "groups": [
@@ -6121,7 +6121,7 @@
   },
   {
     "id": 69697581,
-    "uuid": "A268FD43-0DF6-422E-8D6B-A6D7587AFDFA",
+    "uuid": "a268fd43-0df6-422e-8d6b-a6d7587afdfa",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -6220,7 +6220,7 @@
   },
   {
     "id": 56469812,
-    "uuid": "47F27B1E-3B83-4D0D-813E-755419522F76",
+    "uuid": "47f27b1e-3b83-4d0d-813e-755419522f76",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -6355,7 +6355,7 @@
   },
   {
     "id": 0,
-    "uuid": "6DDAB1CB-FC09-4C11-B0D7-BEDEB49202D3",
+    "uuid": "6ddab1cb-fc09-4c11-b0d7-bedeb49202d3",
     "currentTier": 0,
     "pastTiers": [
       616326
@@ -6409,7 +6409,7 @@
   },
   {
     "id": 63815265,
-    "uuid": "06397593-F2A9-443B-A802-59F511A58FD8",
+    "uuid": "06397593-f2a9-443b-a802-59f511a58fd8",
     "currentTier": 616326,
     "pastTiers": [
       616326
@@ -6778,7 +6778,7 @@
   },
   {
     "id": 76774725,
-    "uuid": "7B6C4A91-760E-48E0-9C00-7C76880B0BB0",
+    "uuid": "7b6c4a91-760e-48e0-9c00-7c76880b0bb0",
     "currentTier": 616325,
     "pastTiers": [
       616325
@@ -11977,7 +11977,7 @@
   },
   {
     "id": 41015251,
-    "uuid": "Alles was mit pc’s und Programmen zu",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
@@ -13129,7 +13129,7 @@
   },
   {
     "id": 151513829,
-    "uuid": "hi I\u0027m mannu I hope you accept me on",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
@@ -14056,7 +14056,7 @@
   },
   {
     "id": 101915484,
-    "uuid": "Hi there I’m kade and I’m a Content ",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
@@ -16252,7 +16252,7 @@
   },
   {
     "id": 216224733,
-    "uuid": "Oi, Meu Nome É Thaylon, Pergunte Um ",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
@@ -40336,7 +40336,7 @@
   },
   {
     "id": 140818699,
-    "uuid": "Hallo das ist meine auf 160 Zeichen ",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
@@ -50956,7 +50956,7 @@
   },
   {
     "id": 60518477,
-    "uuid": "Nix or Manu | 30+ | AroAceAge\nAuDHD ",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
@@ -61099,7 +61099,7 @@
   },
   {
     "id": 24243193,
-    "uuid": "Twitch streamer who\u0027s not sure how t",
+    "uuid": "",
     "currentTier": 10392144,
     "pastTiers": [
       10392144
